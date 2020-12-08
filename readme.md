@@ -56,7 +56,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Perth Microsoft Data and Analytics User Group](https://www.meetup.com/en-AU/Perth-Microsoft-Data-And-Analytics-User-Group/) | AU/WA | Intermittent | Microsoft |
 | [Auckland Azure Lunchtime Meetup](https://www.meetup.com/Auckland-Azure-Lunchtime-Meetup/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Azure User Group](https://www.meetup.com/Auckland-Azure-Usergroup/) | NZ/AKL | 3rd Wednesday of every month | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
-| [Auckland Connected Systems User Group](https://www.meetup.com/Auckland-Connected-Systems-User-Group/) | NZ/AKL | Bi-monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
+| [Auckland Connected Systems User Group](https://www.meetup.com/Auckland-Connected-Systems-User-Group/) | NZ/AKL | monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Microsoft 365 User Group](https://www.meetup.com/Auckland-Microsoft-365-User-Group/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland .NET User Group](https://www.meetup.com/AKL-NET/) | NZ/AKL | Intermittent | Various | 
 | [Auckland North Shore .NET User Group](https://www.meetup.com/North-Shore-NET-User-Group/) | NZ/AKL | 4th Thursday of every month | Massey University, Albany |
